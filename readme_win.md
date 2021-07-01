@@ -29,8 +29,8 @@ Toolchain for Windows - not this is tested on Poky Thud 2.6.1 version
 
     >set SDKTARGETSYSROOT=%SDKROOT%/sysroots/aarch64-poky-linux
   
-  It may be a good idea to repack the SDK with these changes for later distribution.
-  Okay, now SDK is ready, it can be used directly or you can call environment.bat file to setup all the necessary env variables.
+    It may be a good idea to repack the SDK with these changes for later distribution.
+    Okay, now SDK is ready, it can be used directly or you can call environment.bat file to setup all the necessary env variables.
 
 7. If you are using CMake, make sure that Win machine has installed CMake and make.
    Call environment.bat to setup env vars and call cmake with following arguments in order to use Unix makefiles
