@@ -1,4 +1,4 @@
-Toolchain for Windows - not this is tested on Poky Thud 2.6.1 version
+Toolchain for Windows - note this is tested on Poky Thud 2.6.1 version
 
 1. Setup and build the image for your target device
 2. Download meta-mingw and add it to your bblayers, available at 
